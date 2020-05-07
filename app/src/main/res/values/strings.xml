@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kamus Ku</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="eng_to_ind">Inggris - Indonesia</string>
+    <string name="ind_to_eng">Indonesia - Inggris</string>
+    <string name="kata">kata</string>
+    <string name="arti">arti</string>
+    <string name="kamusku">Kamus Ku</string>
+    <string name="app_first_run">Loading</string>
+    <string name="loading">loading</string>
+    <string name="cari">Cari</string>
+</resources>

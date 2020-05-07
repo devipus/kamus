@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/detail"
+    android:orientation="vertical"
+    tools:context=".DetailActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kata"
+        android:id="@+id/tv_kata"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:paddingRight="10dp"
+        android:paddingTop="8dp"
+        android:paddingLeft="8dp"
+        android:paddingBottom="8dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/arti"
+        android:id="@+id/tv_arti"
+        android:textSize="16sp"
+        android:paddingLeft="8dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+
+</LinearLayout>
